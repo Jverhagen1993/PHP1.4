@@ -1,0 +1,20 @@
+*
+{
+	margin: 0px; padding: 0px;
+}
+
+	
+
+.containerhome {background: teal; padding: 10px;}
+
+.regform{padding: 5px; margin-left: 50%; margin-top: 20px;}
+
+.regbtn{margin-left: 56.2%;}
+
+.regimg{width: 500px; height: 500px; margin-top: 20px; margin-left: 200px; position: absolute;}
+
+.sickform{padding: 5px; margin-left: 30%; margin-top: 20px;}
+
+.sickbtn{margin-left: 45%;}
+
+.sickimg{width: 500px; height: 500px; margin-top: 20px; margin-left: 200px; position: absolute;}
